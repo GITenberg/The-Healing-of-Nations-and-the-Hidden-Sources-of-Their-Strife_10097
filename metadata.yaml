@@ -1,5 +1,8 @@
 _repo: The-Healing-of-Nations-and-the-Hidden-Sources-of-Their-Strife_10097
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carpenter, Edward
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/657
     wikipedia: http://en.wikipedia.org/wiki/Edward_Carpenter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10097#The-Healing-of-Nations-and-the-Hidden-Sources-of-Their-Strife
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
